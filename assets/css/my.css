@@ -1,0 +1,51 @@
+article .panel-heading a {
+    color: rgb(190, 190, 190);
+    text-decoration: none;
+    font-size: 18px;
+}
+
+article .panel-heading a:hover {
+    color: rgb(220, 220, 220);
+    text-decoration: underline;
+}
+
+.footer .footerInner span {
+    max-width: 10px;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+    background-color: black;
+}
+
+.panel-heading {
+    background-color: rgba(34, 34, 34, 0.8) !important; /* why i need important here? */
+    color: rgb(190, 190, 190) !important;
+}
+
+.postContent {
+    margin-bottom: 15px;
+}
+
+.subhead {
+    border-bottom: 0px solid #000000;
+}
+
+.navbar {
+    margin-bottom: 20px;
+    border-radius: 0px;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+}
+
+.footerInner {
+    margin: 0px auto;
+    padding: 20px;
+}
+
+.footer {
+    background-color: rgba(35, 35, 35, 1);
+    border-top: 1px solid rgb(20, 20, 20);
+}
+

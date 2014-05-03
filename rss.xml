@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Welcome to my Blog</title>
+        <link>https://agenturofwar.github.io</link>
+        <description>RSS feed for Welcome to my Blog</description>
+        <atom:link href="https://agenturofwar.github.io/rss.xml" rel="self" type="application/rss+xml" />
+                    <item>
+                <title>Willkommen</title>
+                <description><![CDATA[<p>Willkommen zu meinem Blog.<br/>
+Gebaut ist das ganze hier mit <a href="http://spress.yosymfony.com/">Spress</a>,
+hab mir erst <a href="http://jekyllrb.com/">Jekyll</a> angesehen aber PHP liegt mir halt mehr. <br />
+Meine praktisch nicht vorhandenen CSS Skills hab ich mit
+<a href="http://getbootstrap.com/">Twitter Bootstrap</a> kaschiert. <br />
+Um die Ladezeiten meines statischens HTML-Blog noch weiter gegen null zu treiben verwende ich
+<a href="https://github.com/dieulot/instantclick">instantclick</a>. <br />
+Was Kommentare angeht bin ich am ueberlegen ob ich Disqus verwende oder etwas anderes. <br /></p>
+]]></description>
+                <link>https://agenturofwar.github.io/s-press/php/bootstrap/2014/03/09/willkommen/</link>
+                <pubDate>Sun, 09 Mar 2014 16:55:11 +0000</pubDate>
+                <guid>https://agenturofwar.github.io/s-press/php/bootstrap/2014/03/09/willkommen/</guid>
+            </item>
+            </channel>
+</rss>
